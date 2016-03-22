@@ -1,0 +1,44 @@
+/* CSS Document */
+
+.intro, .news{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#333333;
+	line-height:16px;
+}
+
+p.note{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#333333;
+	line-height:16px;
+	font-weight:600;	
+}
+
+
+.news{
+	color:#660000;
+}
+
+a.white{
+	color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	text-decoration:none;
+}
+
+a.white:hover{
+	color:#FFCC00;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	text-decoration:none;
+}
+
+.pageHeaders{
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#660000;
+}
